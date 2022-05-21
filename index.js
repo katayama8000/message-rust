@@ -5,6 +5,4 @@ const makeShortString = (content, maxContentLength) => {
   return content;
 };
 
-console.log(makeShortString("Hello aaaaWorld", 10));
-
 module.exports = makeShortString;
