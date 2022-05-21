@@ -1,12 +1,9 @@
 {
   "name": "make-short-string",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^17.0.35"
-  },
-  "dependencies": {
-    "make-short-string": "^1.0.1"
   }
 }
