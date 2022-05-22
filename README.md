@@ -1,4 +1,4 @@
->**Note**
+**Note**
 ```
 npm i make-short-string
 ```
