@@ -3,5 +3,5 @@
 
 ```typescript
 const makeShortString = ("make-short-string")
-const str = makeShortString("hello-world",10)
+const str:string = makeShortString("hello-world",10)
 ```
