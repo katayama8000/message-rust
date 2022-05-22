@@ -1,5 +1,8 @@
 >**Note**
->npm i make-short-string
+```
+npm i make-short-string
+```
+
 
 ```typescript
 const makeShortString = ("make-short-string")
