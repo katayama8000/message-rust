@@ -9,6 +9,6 @@ const makeShortString = require("make-short-string");
 const str: string = makeShortString("hello-world", 10);
 ```
 
-```console
+```
 hello-worl...
 ```
