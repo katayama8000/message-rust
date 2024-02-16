@@ -1,6 +1,6 @@
 {
   "dockerComposeFile": ["compose.yml"],
-  "service": "message-server",
+  "service": "message",
   "workspaceFolder": "/workspace",
   "customizations": {
     "vscode": {
