@@ -1,5 +1,5 @@
 services:
-  message-client:
+  message:
     build:
       context: .
       dockerfile: Dockerfile
